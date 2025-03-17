@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @edgardotco
-- 👀 I’m interested in en obtener mi titulo de Ingeniero en informática
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on Todo lo que respecta a informática
-- 📫 How to reach me por medio de correo electrónico edgardo.delapena.so@gmail.com
+- 👋 Hola yo soy @edgardotco
+- 👀 Estoy interesado en obtener mi titulo de Ingeniero en informática
+- 🌱 Actualmente estoy aprendiendo GitHub
+- 💞️ Estoy buscando colaborar en Todo lo que respecta a informática
+- 📫 como llegar a mi por medio de correo electrónico edgardo.delapena.so@gmail.com
 
 
 <!---
